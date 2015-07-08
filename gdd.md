@@ -2,10 +2,10 @@
 My Game Thing
 
 ##Objective
-You cannot control the character directly, you may only alter the environment's gravity. It's hard to dodge stuff because of this. Yeah.
+You cannot control the character directly, you may only alter the environment's gravity. It's hard to dodge stuff because of this. Yeah. There are power-ups which can be bought with the coins a player earns in game. At some point there may be in-game purchases for players who are willing to waste their money
 
 ##Mechanics
-Swiping is key. Swipe up and down to alter state of gravity. Powerups are a thing now. Players can spend points they earn in-game on powerups that will help them live longer and gain more points in future sessions
+Swiping is key. Swipe up and down to alter state of gravity. Power-ups are a thing now. Players can spend points they earn in-game on power-ups that will help them live longer and gain more points in future sessions.
 
 ##Level Design
 Simple, and ranging from nearly impossible to quite easy. Each level is a box/point configuration
@@ -26,6 +26,7 @@ Simple, and ranging from nearly impossible to quite easy. Each level is a box/po
 
 ##MVP Milestones
 1. Core Gameplay
+2. Store
 2. Polish/Tweak Gameplay and Add Content
 3. Add power-ups. Tweak power-ups.
 4. Add more content. Continue general Tweaking
