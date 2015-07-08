@@ -23,6 +23,7 @@ Simple, and ranging from nearly impossible to quite easy. Each level is a box/po
   * Levels are Layers of equal size
   * Gameplay is a special layer with all game logic.
   * tutorials are layers with special animations and text
+  * Store is a layer. 
 
 ##MVP Milestones
 1. Core Gameplay
