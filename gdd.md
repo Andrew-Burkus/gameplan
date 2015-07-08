@@ -2,7 +2,7 @@
 My Game Thing
 
 ##Objective
-You cannot control the character directly, you may only alter the environment's gravity. It's hard to dodge stuff because of this. Yeah. There are power-ups which can be bought with the coins a player earns in game. At some point there may be in-game purchases for players who are willing to waste their money
+You cannot control the character directly, you may only alter the environment's gravity. It's hard to dodge stuff because of this. There are power-ups which can be bought with the coins a player earns in game. At some point there may be in-game purchases for players who are willing to waste their money
 
 ##Mechanics
 Swiping is key. Swipe up and down to alter state of gravity. Power-ups are a thing now. Players can spend points they earn in-game on power-ups that will help them live longer and gain more points in future sessions.
