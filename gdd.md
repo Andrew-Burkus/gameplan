@@ -1,0 +1,34 @@
+# AntiGravity
+My Game Thing
+
+##Objective
+You cannot control the character directly, you may only alter the environment's gravity. It's hard to dodge stuff because of this. Yeah.
+
+##Mechanics
+Swiping is key. Swipe up and down to alter state of gravity. Powerups are a thing now. Players can spend points they earn in-game on powerups that will help them live longer and gain more points in future sessions
+
+##Level Design
+Simple, and ranging from nearly impossible to quite easy. Each level is a box/point configuration
+
+##Technical
+1. Controls
+  * Swipes
+  * Up or Down only
+  * Tapping power-up icons activates corresponding power-up
+2. Scenes
+  * Infinite side scroll with random scenes
+  * Game over screen shows high score and previous score
+3. Class and CCBS
+  * Hero is just a standard CCSprite.
+  * Levels are Layers of equal size
+  * Gameplay is a special layer with all game logic.
+  * tutorials are layers with special animations and text
+
+##MVP Milestones
+1. Core Gameplay
+2. Polish/Tweak Gameplay and Add Content
+3. Add power-ups. Tweak power-ups.
+4. Add more content. Continue general Tweaking
+5. Maybe add Character Progression?
+6. Add Achievements to make user feel special.
+7. Screenshots + description + other app store stuff.
