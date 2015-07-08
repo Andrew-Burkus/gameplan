@@ -8,7 +8,7 @@ You cannot control the character directly, you may only alter the environment's 
 Swiping is key. Swipe up and down to alter state of gravity. Power-ups are a thing now. Players can spend points they earn in-game on power-ups that will help them live longer and gain more points in future sessions.
 
 ##Level Design
-Simple, and ranging from nearly impossible to quite easy. Each level is a box/point configuration
+Simple, and ranging from nearly impossible to quite easy. Each level is a box/coin configuration
 
 ##Technical
 1. Controls
@@ -23,7 +23,7 @@ Simple, and ranging from nearly impossible to quite easy. Each level is a box/po
   * Levels are Layers of equal size
   * Gameplay is a special layer with all game logic.
   * tutorials are layers with special animations and text
-  * Store is a layer. 
+  * Store is a layer.
 
 ##MVP Milestones
 1. Core Gameplay
