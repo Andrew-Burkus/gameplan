@@ -2,7 +2,8 @@
 My Game Thing
 
 ##Objective
-You cannot control the character directly, you may only alter the environment's gravity. It's hard to dodge stuff because of this. There are power-ups which can be bought with the coins a player earns in game. At some point there may be in-game purchases for players who are willing to waste their money
+Infinite side scroller.
+You cannot control the character directly, you may only alter the environment's gravity.It's hard to dodge stuff because of this. There are power-ups which can be bought with the coins a player earns in game. At some point there may be in-game purchases for players who are willing to waste their money
 
 ##Mechanics
 Swiping is key. Swipe up and down to alter state of gravity. Power-ups are a thing now. Players can spend points they earn in-game on power-ups that will help them live longer and gain more points in future sessions.
@@ -26,11 +27,15 @@ Simple, and ranging from nearly impossible to quite easy. Each level is a box/co
   * Store is a layer.
 
 ##MVP Milestones
-1. Core Gameplay
-2. Store
-2. Polish/Tweak Gameplay and Add Content
-3. Add power-ups. Tweak power-ups.
-4. Add more content. Continue general Tweaking
-5. Maybe add Character Progression?
-6. Add Achievements to make user feel special.
-7. Screenshots + description + other app store stuff.
+* 12-18
+  * Add a distance counter thing
+    * distance labels
+    * User defaults assignment
+  * Higher-end Tutorial
+    * explain Power-ups
+    * explain swiping on a goddamn screen
+    * explain avoiding obstacles
+* 19-25
+  * Implement Global Leaderboard
+* 26-1
+  * Ship
